@@ -102,4 +102,3 @@
 
 ---
 
-If you'd like, I can help **design the layout**, suggest **colors/fonts**, or help you **code a starter template** for this. Want to start with that?
